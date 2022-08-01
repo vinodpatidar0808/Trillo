@@ -1,5 +1,5 @@
 {
-  "name": "trillo-app",
+  "name": "trillo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinodpatidar0808/Natours.git"
+    "url": "git+https://github.com/vinodpatidar0808/Trillo.git"
   },
   "author": "Vinod",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinodpatidar0808/Natours/issues"
+    "url": "https://github.com/vinodpatidar0808/Trillo/issues"
   },
-  "homepage": "https://github.com/vinodpatidar0808/Natours#readme",
+  "homepage": "https://github.com/vinodpatidar0808/Trillo#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.7",
     "concat": "^1.0.3",
